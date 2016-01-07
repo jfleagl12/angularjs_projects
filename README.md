@@ -1,1 +1,1 @@
-Projects made with Angular JS to practice.
+Projects made with Angular JS for the purpose of practicing my skils.
