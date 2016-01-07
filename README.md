@@ -1,0 +1,1 @@
+Projects made with Angular JS to practice.
